@@ -1,3 +1,3 @@
-# Typing-Game
+# Practice programs
 
-I've created a very basic typing game in python. Feel free to download and use the code.
+I've created a very basic programs in python that beginners can use. Feel free to download and use the code.
