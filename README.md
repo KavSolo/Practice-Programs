@@ -9,3 +9,7 @@ This program generates a random pattern of letters and the player has to type it
 ## Calculator
 
 This program is a very basic calculator. The functions include basic operations: addition, subtraction, multiplication, division, and exponentiation. The user enters two numbers and the operation they want to perform. The program returns the result of the operation.
+
+## Rock, Paper, Scissors
+
+This program is a simple game. The user chooses a play, while the computer generates its own. Then, using various functions, a winner is chosen.
