@@ -34,7 +34,7 @@ def scissors():
 
 while True:
 
-    user_play = input("Choose Play: ")
+    user_play = input("Choose Play: ").upper()
     computer_play = random.choice(computer_plays)
 
     if user_play == "R":
